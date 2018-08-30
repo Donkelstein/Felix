@@ -1,0 +1,15 @@
+.text {
+	border: 0.2em solid black;
+	border-radius: 0.2em;
+	width: 30%;
+	height: 30%;
+	text-align: center;
+	margin-top: 0.2em;
+}
+
+.skiss-container {
+	border: 0.4em solid black;
+	border border-radius: 0.4em;
+	width: 30%;
+	height: 20%;
+}
